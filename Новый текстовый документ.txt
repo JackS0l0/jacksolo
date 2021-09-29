@@ -1,0 +1,7 @@
+<div id="menu0">
+<a href="" id="menu1">Bütün məhsullar</a>
+<a href="" id="menu2">Yeni məhsullar</a>
+<a href="" id="menu3">Yeni məhsullar</a>
+<a href="" id="menu4">Yeni məhsullar</a>
+<a href="" id="menu5" title="5">Yeni məhsullar</a>
+</div>
